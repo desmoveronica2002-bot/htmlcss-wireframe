@@ -6,6 +6,8 @@
 }
 
 body {
+
+    border: 2px solid black;
     width: 512px;
 }
 
@@ -25,8 +27,9 @@ h2{
             margin-left:5%;
         }
 
-.U{
+.paragrafo {
             margin-left:5%;
+            margin-right: 5%;
            
         }
 
