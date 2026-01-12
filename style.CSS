@@ -1,0 +1,38 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 512px;
+}
+
+.boh{
+          
+           align-items: center;
+           margin: 10%;
+        }
+
+.card {
+        padding: 10px;
+        border: solid; color:black; 
+        margin: 10px ;
+         }
+
+h2{
+            margin-left:5%;
+        }
+
+.U{
+            margin-left:5%;
+           
+        }
+
+
+.line {
+    height: 2px;
+    background-color: black;
+
+}
