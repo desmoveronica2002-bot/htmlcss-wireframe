@@ -9,10 +9,11 @@ body {
 
     border: 2px solid black;
     width: 512px;
+
 }
 
-.boh{
-          
+.dimensine {
+
            align-items: center;
            margin: 10%;
         }
@@ -20,7 +21,10 @@ body {
 .card {
         padding: 10px;
         border: solid; color:black; 
-        margin: 10px ;
+        margin: 15px ;
+        margin-left: 35px;
+        margin-right: 35px;
+
          }
 
 h2{
