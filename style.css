@@ -1,0 +1,53 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 10px; 
+}
+
+body {
+
+    border: 2px solid black;
+    width: 512px;
+
+}
+
+.dimension {
+
+    align-items: center;
+    margin: 10%;
+        }
+
+.card {
+    padding: 10px;
+    border: solid; color:black; 
+    margin: 15px ;
+    margin-left: 35px;
+    margin-right: 35px;
+
+         }
+
+h2 {
+    margin-left:5%;
+        }
+
+.card-text {
+    margin-left:5%;
+    margin-right: 5%;
+           
+        }
+
+
+.line {
+    height: 2px;
+    background-color: black;
+
+}
+
+footer {
+    padding: 10px; 
+}
